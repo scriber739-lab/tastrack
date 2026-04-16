@@ -1,0 +1,37 @@
+2026-04-16 09:03:00,664 [INFO] Fetching sitting days for 2025 from https://search.parliament.tas.gov.au/search/quicksearch/2025/sittingdays.html
+2026-04-16 09:03:01,233 [INFO] Found 42 sitting days in 2025
+2026-04-16 09:03:01,236 [INFO] Processing 42 sitting dates: 2025-03-04 to 2025-11-20
+2026-04-16 09:03:13,577 [INFO]   Found V&P document: VOP037250311.docx for 2025-03-11
+2026-04-16 09:03:17,155 [INFO]   Found V&P document: VOP007251104.docx for 2025-03-12
+2026-04-16 09:03:19,962 [INFO]   Found V&P document: VOP039250313.docx for 2025-03-13
+2026-04-16 09:03:22,776 [INFO]   Found V&P document: VOP040250401.docx for 2025-04-01
+2026-04-16 09:03:25,554 [INFO]   Found V&P document: VOP041250402.docx for 2025-04-02
+2026-04-16 09:03:28,236 [INFO]   Found V&P document: VOP042250403.docx for 2025-04-03
+2026-04-16 09:03:31,380 [INFO]   Found V&P document: VOP043250408.docx for 2025-04-08
+2026-04-16 09:03:34,119 [INFO]   Found V&P document: VOP044250409.docx for 2025-04-09
+2026-04-16 09:03:36,835 [INFO]   Found V&P document: VOP045250410.docx for 2025-04-10
+2026-04-16 09:03:48,039 [INFO]   Found V&P document: VOP045250410.docx for 2025-05-09
+2026-04-16 09:03:51,070 [INFO]   Found V&P document: VOP044250409.docx for 2025-05-27
+2026-04-16 09:03:53,631 [INFO]   Found V&P document: VOP048250528.docx for 2025-05-28
+2026-04-16 09:03:56,671 [INFO]   Found V&P document: VOP049250529.docx for 2025-05-29
+2026-04-16 09:03:59,353 [INFO]   Found V&P document: VOP050250603.docx for 2025-06-03
+2026-04-16 09:04:01,915 [INFO]   Found V&P document: VOP051250604.docx for 2025-06-04
+2026-04-16 09:04:04,526 [INFO]   Found V&P document: VOP052250605.docx for 2025-06-05
+2026-04-16 09:04:07,429 [INFO]   Found V&P document: VOP053250610.docx for 2025-06-10
+2026-04-16 09:04:10,008 [INFO]   Found V&P document: VOP001250819.docx for 2025-08-19
+2026-04-16 09:04:21,477 [INFO]   Found V&P document: VOP002250912.docx for 2025-09-12
+2026-04-16 09:04:24,267 [INFO]   Found V&P document: VOP003250923.docx for 2025-09-23
+2026-04-16 09:04:27,612 [INFO]   Found V&P document: VOP004250924.docx for 2025-09-24
+2026-04-16 09:04:30,529 [INFO]   Found V&P document: VOP005250925.docx for 2025-09-25
+2026-04-16 09:04:33,384 [INFO]   Found V&P document: VOP006250926.docx for 2025-09-26
+2026-04-16 09:04:36,070 [INFO]   Found V&P document: VOP007251104.docx for 2025-11-04
+2026-04-16 09:04:38,832 [INFO]   Found V&P document: VOP008251105.docx for 2025-11-05
+2026-04-16 09:04:41,392 [INFO]   Found V&P document: VOP009251106.docx for 2025-11-06
+2026-04-16 09:04:44,080 [INFO]   Found V&P document: VOP10251111.docx for 2025-11-11
+2026-04-16 09:04:47,079 [INFO]   Found V&P document: VOP011251112.docx for 2025-11-12
+2026-04-16 09:04:49,836 [INFO]   Found V&P document: VOP012251113.docx for 2025-11-13
+2026-04-16 09:04:52,550 [INFO]   Found V&P document: VOP007251104.docx for 2025-11-17
+2026-04-16 09:04:55,265 [INFO]   Found V&P document: VOP007251104.docx for 2025-11-18
+2026-04-16 09:04:57,895 [INFO]   Found V&P document: VOP007251104.docx for 2025-11-19
+2026-04-16 09:05:00,574 [INFO]   Found V&P document: VOP007251104.docx for 2025-11-20
+2026-04-16 09:05:00,574 [INFO] Found 33 Votes & Proceedings documents
